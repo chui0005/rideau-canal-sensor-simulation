@@ -104,7 +104,9 @@ rideau-canal-sensor-simulation/
     "location": "Dows Lake",
 }
  ```
-## AI use: 
+## AI Tools Used
+- **Tool:** ChatGPT
+- **Purpose and extent:** 
   - To create generate_sensor_data function
 
 
